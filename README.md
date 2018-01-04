@@ -1,11 +1,11 @@
 # TriggerManagement
->For triggers management in force.com/salesforce
+>For triggers management in force.com/salesforce.
 
 #### Version
 v1.0.0
 
 #### Resolve
-Resovle the triggers execute order that
+Resovle the triggers execute order.
 
 #### How to use
 - You have to install or copy the TriggerManagement.cls to your org;
