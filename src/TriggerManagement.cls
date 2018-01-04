@@ -21,14 +21,6 @@ public without sharing class TriggerManagement {
         void execute();
     }
     
-    /*
-    public virtual class InsertHandlerNorm implements Handler {
-        public virtual void execute() {}
-        
-        public virtual void init(List<sObject> sobjs) {}
-    }
-    */
-    
     public virtual class TriggerException extends exception {}
     
     private static Map<TriggerType, List<Object>> handlersMapping = null;
